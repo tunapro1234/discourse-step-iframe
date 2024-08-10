@@ -1,0 +1,6 @@
+plugins:
+  discourse_step_iframe_enabled:
+    default: true
+    client: true
+    type: bool
+    description: "Enable the Discourse STEP Iframe Plugin"
