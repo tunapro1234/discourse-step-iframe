@@ -1,3 +1,9 @@
+# name: discourse-step-iframe
+# about: Automatically embeds an iframe for STEP files
+# version: 0.2
+# authors: Tuna Gül
+# url: https://github.com/tunapro1234/discourse-step-iframe
+
 enabled_site_setting :discourse_step_iframe_enabled
 
 after_initialize do
